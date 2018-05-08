@@ -1,7 +1,7 @@
 # Example Relay SPDT + LDR Sensor
 Example with Relay SPDT and LDR Sensor to turn on an light when room stay dark
 
-# Dependências:
+# Dependencies:
 - Arduino UNO
 - C/C++ Language
 - Relay SPDT
